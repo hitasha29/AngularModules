@@ -1,0 +1,21 @@
+/* Add any additional styling you need */
+
+.search-results {
+    margin-top: 20px;
+  }
+  
+  .search-result {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .result-title {
+    font-weight: bold;
+    color: blue; /* Apply blue text color */
+  }
+  
+  .result-content {
+    color: black; /* Set the desired text color for content */
+  }
+  
